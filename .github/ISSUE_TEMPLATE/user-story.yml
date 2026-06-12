@@ -1,4 +1,5 @@
 name: User Story
+description: New user story
 body:
   - type: input
     id: role
